@@ -14,6 +14,8 @@ A simple web3 transaction website
 ![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/cd589f14-9036-4097-bc1b-4dbf3fdd581c)
 
 *after connecting to wallet*
+
+![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/b1753a35-b8a6-4aef-8980-d015272b9b06)
 ![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/86cafbf2-2f5d-4332-bb94-254355d20c71)
 ![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/775ebfd2-5d57-45db-99b3-311efafe96cf)
 ![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/aa526da4-a37c-4770-91ef-1e681746041c)
