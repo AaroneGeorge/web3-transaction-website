@@ -7,6 +7,7 @@ A simple web3 transaction website
 
 *front page*
 
+![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/f7b555b1-b1af-4ff2-af1f-98a59ba26ab6)
 ![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/ccfa7c53-876e-4da4-97a9-ae56441ab068)
 ![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/e1eb8afc-4ce2-44e1-b5eb-b1ee6eb42d54)
 ![image](https://github.com/AaroneGeorge/web3-transaction-website/assets/96471433/dd90f3ed-b4f5-4908-b8ca-f41724bc5a37)
